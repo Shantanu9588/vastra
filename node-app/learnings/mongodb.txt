@@ -1,0 +1,4 @@
+MongoDB is a non SQL database, which stores the document in so called collections. (In SQL - documents as records and collections are tables), We use it to store application database data
+MongoDB is a powerful database and it can be easily connected to node express application.
+MongoDB Atlas is fully managed cloud service hosting.
+Cluster is basically the our server in cloud running our mongoDB database. It is called cluster becuase it could contain multiple servers to allow horizontal scaling.
